@@ -16,6 +16,14 @@ sessionTimeout.title = For your security, we signed you out
 sessionTimeout.paragraph.saved = We saved your answers.
 sessionTimeout.signin.button = Sign in
 
+unauthorised.heading = To continue, you need to get access to the Plastic Packaging Tax Service
+unauthorised.paragraph.1 = To use this service, you’ll need to:
+unauthorised.paragraph.1.bullet.1 = {0} if you do not have one
+unauthorised.paragraph.1.bullet.1.link = get an Unique Taxpayer Reference (UTR) number
+unauthorised.paragraph.1.bullet.2.link = get access to the Plastic Packaging Tax Service
+unauthorised.paragraph.2 = If you’ve already applied for an UTR number, you can {0}.
+unauthorised.paragraph.2.link = check the status of your application
+
 timeoutDialog.title = Your session will timeout soon
 timeoutDialog.message = For your security, we will sign you out in
 timeoutDialog.keepAlive.text = Stay signed in
